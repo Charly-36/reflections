@@ -1,1 +1,28 @@
-When would you want to create a remote repository rather than keeping all your work local?
+¿Cuándo querrías usar un repositorio remoto en lugar de mantener todo tu trabajo local
+
+    Siempre, ya que la maryoría de las veces se nos olvida llevar los archivos, sólo los tenemos en el pc personal, y al momento que estamos lejos de ella y se necesita usarlos,nos es dificíl,en cambio,con un repositorio remoto facilita mucho todas estas tareas, además de que guarda todas las versiones de cada archivo
+
+¿Por qué querrías siempre hacer cambios manualmente en lugar de tener Git?
+mantenerse automáticamente actualizado con su repositorio remoto?
+
+    Complete su respuesta aquí
+
+Describe las diferencias entre horquillas, clones y ramas. Cuando podrias
+usar uno en lugar de otro?
+
+    Complete su respuesta aquí
+
+¿Cuál es el beneficio de tener una copia del último estado conocido del control remoto?
+almacenado localmente?
+
+    Complete su respuesta aquí
+
+¿Cómo colaborarías sin usar Git o GitHub? ¿Qué sería más fácil?
+y que seria mas dificil?
+
+    Complete su respuesta aquí
+
+¿Cuándo desea realizar cambios en una sucursal separada en lugar de hacerlo directamente en
+¿dominar? ¿Qué beneficios tiene cada enfoque?
+
+    Complete su respuesta aquí
