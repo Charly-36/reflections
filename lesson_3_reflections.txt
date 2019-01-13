@@ -1,28 +1,29 @@
-¿Cuándo querrías usar un repositorio remoto en lugar de mantener todo tu trabajo local
+﻿¿Cuándo querrías usar un repositorio remoto en lugar de mantener todo tu trabajo local
 
     Siempre, ya que la maryoría de las veces se nos olvida llevar los archivos, sólo los tenemos en el pc personal, y al momento que estamos lejos de ella y se necesita usarlos,nos es dificíl,en cambio,con un repositorio remoto facilita mucho todas estas tareas, además de que guarda todas las versiones de cada archivo
 
-¿Por qué querrías siempre hacer cambios manualmente en lugar de tener Git?
-mantenerse automáticamente actualizado con su repositorio remoto?
+¿Por qué querrías siempre hacer cambios manualmente en lugar de tener Git mantenerse automáticamente actualizado con su repositorio remoto?
 
-    Complete su respuesta aquí
+    Porque hay veces que no deseo hacer los cambios,sólo es probar el código, y ya dependiendo del resultado,si es lo que esperamos o se aproxima,guardamos, y sino deseamos la mayoría de las veces que no se ejecuten los cambios.
 
 Describe las diferencias entre horquillas, clones y ramas. Cuando podrias
 usar uno en lugar de otro?
 
-    Complete su respuesta aquí
+    Cada tenedor de los principales repo corresponde a un miembro del equipo de trabajo.
+    Cada rama dentro de la horquilla y/o en el puesto principal de repos, puede corresponder a varios tipos de cosas, dependiendo de cómo desea trabajar. Generalmente, cada rama se refiere a una versión del proyecto, pero también puede corresponder a diferentes canales de desarrollo, como las revisiones o el trabajo experimental.
 
 ¿Cuál es el beneficio de tener una copia del último estado conocido del control remoto?
 almacenado localmente?
 
-    Complete su respuesta aquí
+    Por si en algún momento queremos regresar al trabajo o modificación anterior que habíamos hecho.
 
 ¿Cómo colaborarías sin usar Git o GitHub? ¿Qué sería más fácil?
 y que seria mas dificil?
 
-    Complete su respuesta aquí
+    Al colaborar,primero obtendría el archivo, colaborar en él y después enviarle a los demás, o subirlo en algún grupo o algo por el estilo,el problema es que se suben varios archivo y de los cuales,cada integrante debe descargar cada versión  de ellos.
 
-¿Cuándo desea realizar cambios en una sucursal separada en lugar de hacerlo directamente en
-¿dominar? ¿Qué beneficios tiene cada enfoque?
-
-    Complete su respuesta aquí
+¿Cuándo desea realizar cambios en una sucursal separada en lugar de hacerlo directamente en maestro? 
+¿Qué beneficios tiene cada enfoque?
+	Cuando se pide alguna respuesta y se pide que los miembros del equipo,den una al mismo tiempo.
+	Hacerlo desde master cuando los demás colaboradores al archivo han aprobado que midifique que sólo modifique una sola persona.
+    
